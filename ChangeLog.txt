@@ -1,4 +1,4 @@
-{"version_code":451242,"content":"
+{"version_code":452646,"content":"
 <p>تحديث 7.01</p>
 
 <li>نسخه تجريبيه ضد الحظر</li>
