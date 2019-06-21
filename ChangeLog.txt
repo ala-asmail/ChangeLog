@@ -1,4 +1,4 @@
-{"version_code":452649,"content":"
+{"version_code":452650,"content":"
 <p>تحديث 7.10</p>
 
 <li> التحديث لنسخة الماركت 2.18.327</li>
