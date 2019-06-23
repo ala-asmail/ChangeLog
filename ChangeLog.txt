@@ -20,7 +20,7 @@
 <li> إصلاحات أخرى</li>
 <li> تعديل علاء اسماعيل<li>
 
-<p>New Base Updated 1.02</p>
+<p>New Base Updated 1.01</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
 
