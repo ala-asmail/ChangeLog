@@ -1,6 +1,6 @@
-{"version_code":452648,"content":"
-<p>تحديث 2.02</p>
-<li> التحديث لنسخة الماركت 2.19.17.327</li>
+{"version_code":451244,"content":"
+<p>تحديث 4.30</p>
+
 <li>نسخه ضد الحظر</li>
 <li>نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيته من جديد)</li>
 <li>تمديد صلاحية النسخة لمدة شهرين</li>
@@ -16,7 +16,7 @@
 <li>اصلاحات اخرى</li>
 <li> تعديل علاء اسماعيل<li>
 
-<p>New Base Updated 2.02</p>
+<p>New Base Updated 4.30</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
 
